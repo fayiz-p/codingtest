@@ -1,0 +1,5 @@
+A. reverse-i-search is used to get the history or past commands in Linux terminal.
+B. ls -a is the command used to get all the dictionaries including hidden dictionaries
+   ls . -name ".*" is also can be used to find hidden dictionareis, because the name of hidden dictionaries starts with dot(.).
+C. I have been worked in Ubuntu and i am beginner in Linux OS Ubuntu.
+D. Yes, Apache.
